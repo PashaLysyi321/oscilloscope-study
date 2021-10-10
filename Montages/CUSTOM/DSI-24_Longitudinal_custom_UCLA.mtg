@@ -1,0 +1,86 @@
+Headset index: ,3,
+Number of plots:  ,19,
+List of Plot colors [RBG]
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+255, 255, 255, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+255, 255, 255, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+0, 0, 0, 
+255, 255, 255, 
+0, 0, 0, 
+0, 0, 0, 
+255, 255, 255, 
+0, 0, 0, 
+0, 0, 0, 
+255, 255, 255,  
+BKGND color [RBG]
+255, 255, 255, 
+Tracer color [RBG]
+128, 128, 128, 
+Grid color [RBG]
+192, 192, 192, 
+Trigger color [RBG]
+0, 0, 255, 
+Reserved color [RBG]
+0, 0, 255, 
+Reference position:
+Pz
+Montage positions:
+Fpz,Fz,
+Fz,Cz,
+Cz,Pz,
+Pz,Pz,
+Fp1,F3,
+F3,C3,
+C3,P3,
+P3,O1,
+Pz,Pz,
+Fp2,F4,
+F4,C4,
+C4,P4,
+P4,O2,
+Pz,Pz,
+F7,T3,
+T3,T5,
+Pz,Pz,
+F8,T4,
+T4,T6,
+Pz,Pz,
+List of reference channels: ,
+A1,A2,
+Scale:
+100
+100
+100
+0
+100
+100
+100
+100
+0
+100
+100
+100
+100
+0
+100
+100
+0
+100
+100
+0
+Accelerometer:
+A
+0, 128, 0, 
+0, 0, 255, 
+255, 0, 0, 
+Plot Length:
+6.0

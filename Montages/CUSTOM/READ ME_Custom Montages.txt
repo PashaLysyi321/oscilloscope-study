@@ -1,0 +1,11 @@
+Custom Montages are created to support custom headsets.
+
+To use a Custom Montage, you can load it from DSI-Streamer's Montage Tab.
+DSI-Streamer will save the last saved montage in the DSI-Streamer.xml and reload it the next time it is launched.
+
+
+To make a Custom Montage a default montage to be loaded every time:
+you can copy and rename the custom montage to match the name of the headset's default montage: eg. DSI-24_LE_default.mtg
+and place that copy in the appropriate headset folder (eg. \Montages\DSI-24)
+Now you can select that montage by checking the "Headset Default Montage" checkbox in the Montage Tab.
+
